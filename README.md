@@ -197,8 +197,9 @@ If you're consistent, this roadmap can take you from zero to job-ready in **arou
 
 | Platform                         | Type                   | Link |
 |----------------------------------|------------------------|------|
-| Frontend Mentor                  | UI Challenges          | [Website](https://frontendmentor.io/) |
-| JS Projects (ZTM)                | Mini Projects          | [GitHub](https://github.com/zero-to-mastery/javascript-projects) |
+| Frontend Projects                | Project/Course         | [Website](https://www.freecodecamp.org/learn/2022/responsive-web-design/) |
+| React Projects                   | Projects               | [Youtube](https://youtu.be/0yboGn8errU?si=aCE0haZRONXQDOQ2) |
+| Nextjs Projects                  | Projects               | [Youtube](https://youtube.com/playlist?list=PLaBeGKL1tOU3Gl_x2EzOMPPpAWq9znZWt&si=_NfzrM0fDH1gUg43) |
 | 100 JS Projects                  | Practice Repo          | [GitHub](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer#projects) |
 | Node.js Projects                 | Full Stack Ideas       | [GitHub](https://github.com/practical-tutorials/project-based-learning#nodejs) |
 
